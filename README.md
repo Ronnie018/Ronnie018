@@ -3,7 +3,7 @@
 <h3 align="center">
   I'm a technology lover intending to become a Web Developer.
 </h3>
-
+<br>
   <div float="left">
     <span align="left">
       <ul>
