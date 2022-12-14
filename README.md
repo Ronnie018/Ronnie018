@@ -4,7 +4,6 @@
   I'm a technology lover intending to become a Web Developer.
 </h3>
 
-<br>
   <div float="left">
     <span align="left">
       <ul>
@@ -15,9 +14,6 @@
       </ul>
     </span>
   </div>
-  
-
-<br>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,12 +51,9 @@
   /></a>
 </p>
 
-<br>
-
 <h3 align="left">Languages and Tools I went through:</h3>
 
 <p align="left">
-  <br>
 
   <h4>frontend:</h4>
 
