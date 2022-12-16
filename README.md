@@ -248,7 +248,7 @@
   <a>
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnie018&show_icons=true&locale=en&layout=expanded&theme=midnight-purple"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnie018&show_icons=true&locale=en&layout=compact&theme=midnight-purple"
       alt="ronnie018"
       height="350px"
       width="49%"
