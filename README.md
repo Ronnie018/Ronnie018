@@ -245,7 +245,7 @@
 <br>
 
 <div align="center">
-  <a>
+<!--   <a>
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnie018&show_icons=true&locale=en&layout=compact&theme=midnight-purple"
@@ -262,7 +262,7 @@
       height="350px"
       width="49%"
     />
-  </a>
+  </a> -->
   <br>
   <p>
     <img
