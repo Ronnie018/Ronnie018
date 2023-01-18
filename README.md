@@ -48,8 +48,6 @@
 
 <p align="left">
 
-  <h4>frontend:</h4>
-
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
     title="javascript">
@@ -116,11 +114,6 @@
       height="40"
     />
   </a>
-
-  <br>
-
-  <h4>backend:</h4>
-
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
@@ -194,12 +187,6 @@
       height="40"
     />
   </a>
-
-  <br>
-  <br>
-
-  <h4>other technologies:</h4>
-  
   <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg"
@@ -245,7 +232,7 @@
 <br>
 
 <div align="center">
-<!--   <a>
+  <a>
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnie018&show_icons=true&locale=en&layout=compact&theme=midnight-purple"
@@ -262,7 +249,7 @@
       height="350px"
       width="49%"
     />
-  </a> -->
+  </a>
   <br>
   <p>
     <img
