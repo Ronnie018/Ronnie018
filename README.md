@@ -1,10 +1,13 @@
 <div align="center" >
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Hi,+I'm+Rondineli;Owner+of+FearlessTech;I'm+a+technology+lover;Intending+to+become;a+Web+Developer;You+can+reach+me+@;rondinelibrt18@gmail.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=40&pause=100&color=06CD9C&vCenter=true&width=600&height=70&lines=Hi,+I'm+Rondineli+Brito;co-owner+of+FearlessTech;I+love+tech+And+i+intend+to+become-a+Web-Developer;Reach+me+on+rondinelibrt18@gmail.com)](https://git.io/typing-svg)
 
 </div>
+
+![](./profile-3d-contrib/profile-south-season-animate.svg)
+
 <br>
-![image](https://raw.githubusercontent.com/Ronnie018/Ronnie018/3be4221003262c8bac70dc5cb90cae0e31a5791c/profile-3d-contrib/profile-south-season-animate.svg)
+
 <br>
   <div float="left">
     <span align="left">
@@ -221,12 +224,7 @@
     />
   </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-      alt="webpack"
-      width="40"
-      height="40"
-    />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
   </a>
 </p>
 
@@ -236,10 +234,6 @@
   <p>
     <img
       align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=ronnie018&theme=midnight-purple"
-      alt="ronnie018"
-      height="300px"
-
-    />
+      src="https://github-readme-streak-stats.herokuapp.com/?user=ronnie018&theme=midnight-purple" alt="ronnie018" height="300px" />
   </p>
 </div>
