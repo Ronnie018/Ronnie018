@@ -233,25 +233,6 @@
 <br>
 
 <div align="center">
-  <a>
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnie018&show_icons=true&locale=en&layout=compact&theme=midnight-purple"
-      alt="ronnie018"
-      height="350px"
-      width="49%"
-    />
-  </a>
-  <a>
-    &nbsp;<img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=ronnie018&show_icons=true&locale=en&theme=midnight-purple"
-      alt="ronnie018"
-      height="350px"
-      width="49%"
-    />
-  </a>
-  <br>
   <p>
     <img
       align="center"
