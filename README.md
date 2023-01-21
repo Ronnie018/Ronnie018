@@ -4,7 +4,7 @@
 
 </div>
 <br>
-![](https://github.com/Ronnie018/Ronnie018/blob/main/profile-3d-contrib/profile-south-season-animate.svg)
+![image](https://raw.githubusercontent.com/Ronnie018/Ronnie018/3be4221003262c8bac70dc5cb90cae0e31a5791c/profile-3d-contrib/profile-south-season-animate.svg)
 <br>
   <div float="left">
     <span align="left">
