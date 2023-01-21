@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rondineli</h1>
+<div align="center" >
 
-<h3 align="center">
-  I'm a technology lover intending to become a Web Developer.
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Hi,+I'm+Rondineli;Owner+of+FearlessTech;I'm+a+technology+lover;Intending+to+become;a+Web+Developer;You+can+reach+me+@;rondinelibrt18@gmail.com)](https://git.io/typing-svg)
+
+</div>
+<br>
+
 <br>
   <div float="left">
     <span align="left">
@@ -17,6 +19,13 @@
   <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+  
+<div align="center" >
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=My+Friend+thinks+she+is+funny;by+high+jacking+my+GitHub+profile;because+I+hid+my+secret+passion;for+graphics+from+her;Also+she+is+the+most;amazing+women+alive!)](https://git.io/typing-svg)
+
+</div>
   
   <a href="https://stackoverflow.com/users/16398567" target="blank"
     ><img
