@@ -4,7 +4,7 @@
 
 </div>
 <br>
-![](./profile-3d-contrib/profile-south-season-animate.svg)
+![](https://github.com/Ronnie018/Ronnie018/blob/main/profile-3d-contrib/profile-south-season-animate.svg)
 <br>
   <div float="left">
     <span align="left">
