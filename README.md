@@ -7,6 +7,10 @@
 </div>
 
   <br />
+  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ronnie018&label=Profile%20views&color=0e75b6&style=flat" alt="ronnie018" />
+</p>
 
 <img
   src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"
@@ -311,9 +315,6 @@
   width="75px"
   float="right"
 />
-
-
-  <br />
 
   <div float="left">
       <ul>
