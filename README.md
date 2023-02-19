@@ -379,3 +379,6 @@
   </details>
 
 </div>
+<!---
+we are bonded before we even met, before were even born, before the names, before the words, before the mans, before the world exists, we are bonded, from the moment i wake up, untill the moment i close my eyes and even when i close them, youre still there, your ressoning voice, your singing, me encanta.and Its all dust, the doubt, the fears, the chains, the pains, the tears, those are only of happiness now. I dont need to think how, i just need to think of you. and its all worthing.
+--->
