@@ -353,7 +353,7 @@
         height="40"
         width="40"
     /></a>
-    <a href="https://discord.gg/08RONNIE08#7236" target="blank"
+    <a href="https://discordapp.com/users/08RONNIE08#7236" target="blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
