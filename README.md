@@ -23,7 +23,6 @@
   width="75px"
   float="right"
 />
-
 <img
   src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white"
   width="75px"
@@ -49,7 +48,6 @@
   width="75px"
   float="right"
 />
-
 <img
   src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"
   width="75px"
@@ -75,7 +73,6 @@
   width="75px"
   float="right"
 />
-
 <img
   src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"
   width="75px"
@@ -116,7 +113,6 @@
   width="75px"
   float="right"
 />
-
 <img
   src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"
   width="75px"
@@ -162,7 +158,6 @@
   width="75px"
   float="right"
 />
-
 <img
   src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"
   width="75px"
@@ -203,7 +198,6 @@
   width="75px"
   float="right"
 />
-
 <img
   src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
   width="75px"
@@ -254,7 +248,6 @@
   width="75px"
   float="right"
 />
-
 <img
   src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
   width="75px"
@@ -290,7 +283,6 @@
   width="75px"
   float="right"
 />
-
 <img
   src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"
   width="75px"
