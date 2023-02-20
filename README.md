@@ -378,11 +378,7 @@
   </details>
   <br />
 
-  <details>
-    <summary>
-      <h3>Some Works</h3>
-    </summary>
-
+  <h3>Some Works</h3>
   <div>
     <h3>Clones</h3>
     <ul>
@@ -418,7 +414,6 @@
       </li>
     </ul>
   </div>
-  </details>
 </div>
 
 <!---
