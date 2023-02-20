@@ -312,6 +312,19 @@
   float="right"
 />
 
+<h3>Hire Me</h3>
+<ul>
+    <a href="https://www.fiverr.com/share/xPwZmX">
+      Landing Page Fiverr Gig <br>
+      <img src="https://assets-global.website-files.com/606a802fcaa89bc357508cad/62291b5f923ec472a68d77ea_Blog%20-%201%20(2).png" alt="" width="250px">
+    </a>
+  <br/>
+    <a href="rondinelibrt18@gmail.com">
+      Or email me for a full time job <br>
+      <img src="https://images.ctfassets.net/lzny33ho1g45/best-email-app-p-img/65fb438385539afec1566a61ffbf7668/best_email_apps.jpg?w=1520&fm=jpg&q=30&fit=thumb&h=760" alt="" width="250px">
+    </a>
+</ul>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ronnie018&label=Profile%20views&color=0e75b6&style=flat" alt="ronnie018" />
 </p>
@@ -395,22 +408,7 @@
         <a href="https://fearlesstech.github.io/">FearlessTech</a>
       </li>
       <li>
-        <a href="taandrade.github.io/portfolio-design/">Digital Designer Portfolio</a>
-      </li>
-    </ul>
-    <h3>Hire Me</h3>
-    <ul>
-      <li>
-        <a href="https://www.fiverr.com/share/xPwZmX">
-          Landing Page Fiverr Gig <br>
-          <img src="https://assets-global.website-files.com/606a802fcaa89bc357508cad/62291b5f923ec472a68d77ea_Blog%20-%201%20(2).png" alt="" width="250px">
-        </a>
-      </li>
-      <li>
-        <a href="rondinelibrt18@gmail.com">
-          Or email me for a full time job <br>
-          <img src="https://images.ctfassets.net/lzny33ho1g45/best-email-app-p-img/65fb438385539afec1566a61ffbf7668/best_email_apps.jpg?w=1520&fm=jpg&q=30&fit=thumb&h=760" alt="" width="250px">
-        </a>
+        <a href="https://robertaandrade.github.io/portfolio-design/">Digital Designer Portfolio</a>
       </li>
     </ul>
   </div>
