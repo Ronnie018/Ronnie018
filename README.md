@@ -90,6 +90,7 @@
 
 <!--- Connect --->
 
+
   <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="https://stackoverflow.com/users/16398567" target="blank"
@@ -100,7 +101,7 @@
         height="40"
         width="40"
     /></a>
-    <a href="https://www.hackerrank.com/@rondinelibrt18" target="blank"
+    <a href="https://www.hackerrank.com/rondinelibrt18" target="blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
@@ -108,7 +109,7 @@
         height="40"
         width="40"
     /></a>
-    <a href="https://discord.gg/08RONNIE08#7236" target="blank"
+    <a href="https://discordapp.com/users/08RONNIE08#7236" target="blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
@@ -440,80 +441,6 @@
   float="right"
 />
 
-
-
-  <br />
-
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://stackoverflow.com/users/16398567" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-        alt="16398567"
-        height="40"
-        width="40"
-    /></a>
-    <a href="https://www.hackerrank.com/rondinelibrt18" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-        alt="@rondinelibrt18"
-        height="40"
-        width="40"
-    /></a>
-    <a href="https://discordapp.com/users/08RONNIE08#7236" target="blank"
-      ><img
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-        alt="08RONNIE08#7236"
-        height="40"
-        width="40"
-    /></a>
-  <br />
-
-  <details>
-    <summary>
-      <h3>Statistics</h3>
-    </summary>
-
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="" width="760px">
-  <div align="center">
-    <p>
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=ronnie018&theme=midnight-purple"
-        alt="ronnie018"
-        height="300px"
-      />
-    </p>
-  </div>
-    
-  </details>
-  <br />
-
-  <h3>Some Works</h3>
-  <div>
-    <h3>Clones</h3>
-    <ul>
-      <li>
-        <a href="https://4-leafs-code.github.io/ResponsiveRestaurant/">Responsive Restaurant</a>
-      </li>
-      <li>
-         <a href="https://4-leafs-code.github.io/Gym1/">Fitness Gym</a>
-      </li>
-    </ul>
-    <h3>Blogs and Landing Pages</h3>
-    <ul>
-      <li>
-        <a href="https://fearlesstech.github.io/">FearlessTech</a>
-      </li>
-      <li>
-        <a href="https://robertaandrade.github.io/portfolio-design/">Digital Designer Portfolio</a>
-      </li>
-    </ul>
-  </div>
-</div>
 
 <!---
 we are bonded before we even met, before were even born, before the names, before the words, before the mans, before the world exists, we are bonded, from the moment i wake up, untill the moment i close my eyes and even when i close them, youre still there, your ressoning voice, your singing, me encanta.and Its all dust, the doubt, the fears, the chains, the pains, the tears, those are only of happiness now. I dont need to think how, i just need to think of you. and its all worthing.
