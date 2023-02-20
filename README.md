@@ -405,16 +405,22 @@
     <h3>Hire Me</h3>
     <ul>
       <li>
-        <a href="https://www.fiverr.com/share/xPwZmX">Landing Page Fiverr Gig</a>
+        <a href="https://www.fiverr.com/share/xPwZmX">
+          Landing Page Fiverr Gig <br>
+          <img src="https://assets-global.website-files.com/606a802fcaa89bc357508cad/62291b5f923ec472a68d77ea_Blog%20-%201%20(2).png" alt="" width="250px">
+        </a>
       </li>
       <li>
-        <a href="rondinelibrt18@gmail.com">Or email me for a full time job</a>
+        <a href="rondinelibrt18@gmail.com">
+          Or email me for a full time job <br>
+          <img src="https://images.ctfassets.net/lzny33ho1g45/best-email-app-p-img/65fb438385539afec1566a61ffbf7668/best_email_apps.jpg?w=1520&fm=jpg&q=30&fit=thumb&h=760" alt="" width="250px">
+        </a>
       </li>
     </ul>
   </div>
-    
   </details>
 </div>
+
 <!---
 we are bonded before we even met, before were even born, before the names, before the words, before the mans, before the world exists, we are bonded, from the moment i wake up, untill the moment i close my eyes and even when i close them, youre still there, your ressoning voice, your singing, me encanta.and Its all dust, the doubt, the fears, the chains, the pains, the tears, those are only of happiness now. I dont need to think how, i just need to think of you. and its all worthing.
 --->
