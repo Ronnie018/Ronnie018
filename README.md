@@ -9,11 +9,11 @@
   <br />
   
   
- 
+ <div align="center" > 
 <table>
 
   <tr>
-   <div><h1>Hire Me</h1></div>
+   <div align="center" > <h1>Hire Me</h1></div>
     <td>
       <a href="https://www.fiverr.com/share/xPwZmX">Landing Page Fiverr Gig <br><img src="https://assets-global.website-files.com/606a802fcaa89bc357508cad/62291b5f923ec472a68d77ea_Blog%20-%201%20(2).png" alt=""  width="250">
     </td>
@@ -25,7 +25,7 @@
     </td>
   </tr>
 </table>
-
+</div>
  
 
 
