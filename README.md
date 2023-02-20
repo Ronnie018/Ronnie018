@@ -26,7 +26,7 @@
         <img src="/2890378.png" width="150">
       </td>
       <td>
-         <a href="rondinelibrt18@gmail.com"> Or email me for a full time job <br><img src="https://images.ctfassets.net/lzny33ho1g45/best-email-app-p-img/65fb438385539afec1566a61ffbf7668/best_email_apps.jpg?w=1520&fm=jpg&q=30&fit=thumb&h=760" alt="" width="250px"></a>
+         <a href="mailto:rondinelibrt18@gmail.com"> Or email me for a full time job <br><img src="https://images.ctfassets.net/lzny33ho1g45/best-email-app-p-img/65fb438385539afec1566a61ffbf7668/best_email_apps.jpg?w=1520&fm=jpg&q=30&fit=thumb&h=760" alt="" width="250px"></a>
       </td>
     </tr>
   </table>
