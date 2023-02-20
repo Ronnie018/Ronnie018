@@ -8,26 +8,20 @@
 
   <br />
   
-  <h3>Hire Me</h3>
   
-  | Landing Page Fiverr Gig | Or email me for a full time job |
-| --- | --- |
-| <a href="https://www.fiverr.com/share/xPwZmX">Landing Page Fiverr Gig <br><img src="https://assets-global.website-files.com/606a802fcaa89bc357508cad/62291b5f923ec472a68d77ea_Blog%20-%201%20(2).png" alt="" width="250px"></a> | <a href="rondinelibrt18@gmail.com"> Or email me for a full time job <br><img src="https://images.ctfassets.net/lzny33ho1g45/best-email-app-p-img/65fb438385539afec1566a61ffbf7668/best_email_apps.jpg?w=1520&fm=jpg&q=30&fit=thumb&h=760" alt="" width="250px"></a> |
-![webdev](https://user-images.githubusercontent.com/105990331/220165264-e289dcdb-4db1-4644-bb9d-71d6ab09331c.jpg)
- ![fiverr](https://user-images.githubusercontent.com/105990331/220166009-12920d51-80d2-4fdf-9bd5-0b77bdb418cd.jpg)
+ 
 <table>
 
   <tr>
-   <h3>Hire Me</h3>
+   <div><h1>Hire Me</h1></div>
     <td>
-      <img align="left" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/718/296/datas/original.png" width="150">
+      <a href="https://www.fiverr.com/share/xPwZmX">Landing Page Fiverr Gig <br><img src="https://assets-global.website-files.com/606a802fcaa89bc357508cad/62291b5f923ec472a68d77ea_Blog%20-%201%20(2).png" alt=""  width="250">
     </td>
     <td>
-    <h3>💖Become a part of the FearlessTech💖</h3>
-    <a href="https://github.com/FearlessTech/.github/issues/new?assignees=&labels=welcome&template=invitation.yml&title=Please+invite+me+to+FearlessTech" alt="join_us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-JOIN%20US-green?style=for-the-badge&logo=github" width="150"></a>
+      <img width="150">
     </td>
     <td>
-      <img align="left" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/718/296/datas/original.png" width="150">
+       <a href="rondinelibrt18@gmail.com"> Or email me for a full time job <br><img src="https://images.ctfassets.net/lzny33ho1g45/best-email-app-p-img/65fb438385539afec1566a61ffbf7668/best_email_apps.jpg?w=1520&fm=jpg&q=30&fit=thumb&h=760" alt="" width="250"></a>
     </td>
   </tr>
 </table>
