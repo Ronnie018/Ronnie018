@@ -328,7 +328,6 @@
       </ul>
   </div>
 
-  
   <br />
 
   <h3 align="left">Connect with me:</h3>
@@ -377,7 +376,27 @@
   </div>
     
   </details>
+  <br />
 
+  <details>
+    <summary>
+      <h3>Some Works</h3>
+    </summary>
+
+  <div align="center">
+    <h3>Clones</h3>
+    <a href="https://4-leafs-code.github.io/ResponsiveRestaurant/">Responsive Restaurant</a>
+    <a href="https://4-leafs-code.github.io/Gym1/">Fitness Gym</a>
+    <h3>Blogs and Landing Pages</h3>
+    <a href="https://fearlesstech.github.io/">FearlessTech</a>
+    <a href="taandrade.github.io/portfolio-design/">Digital Designer Portfolio</a>
+
+    <h2>Hire Me</h2>
+    <a href="https://www.fiverr.com/share/xPwZmX">Landing Page Fiverr Gig</a>
+    <a href="rondinelibrt18@gmail.com">Or email me for a full time job</a>
+  </div>
+    
+  </details>
 </div>
 <!---
 we are bonded before we even met, before were even born, before the names, before the words, before the mans, before the world exists, we are bonded, from the moment i wake up, untill the moment i close my eyes and even when i close them, youre still there, your ressoning voice, your singing, me encanta.and Its all dust, the doubt, the fears, the chains, the pains, the tears, those are only of happiness now. I dont need to think how, i just need to think of you. and its all worthing.
