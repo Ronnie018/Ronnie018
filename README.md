@@ -383,17 +383,34 @@
       <h3>Some Works</h3>
     </summary>
 
-  <div align="center">
+  <div>
     <h3>Clones</h3>
-    <a href="https://4-leafs-code.github.io/ResponsiveRestaurant/">Responsive Restaurant</a>
-    <a href="https://4-leafs-code.github.io/Gym1/">Fitness Gym</a>
+    <ul>
+      <li>
+        <a href="https://4-leafs-code.github.io/ResponsiveRestaurant/">Responsive Restaurant</a>
+      </li>
+      <li>
+         <a href="https://4-leafs-code.github.io/Gym1/">Fitness Gym</a>
+      </li>
+    </ul>
     <h3>Blogs and Landing Pages</h3>
-    <a href="https://fearlesstech.github.io/">FearlessTech</a>
-    <a href="taandrade.github.io/portfolio-design/">Digital Designer Portfolio</a>
-
-    <h2>Hire Me</h2>
-    <a href="https://www.fiverr.com/share/xPwZmX">Landing Page Fiverr Gig</a>
-    <a href="rondinelibrt18@gmail.com">Or email me for a full time job</a>
+    <ul>
+      <li>
+        <a href="https://fearlesstech.github.io/">FearlessTech</a>
+      </li>
+      <li>
+        <a href="taandrade.github.io/portfolio-design/">Digital Designer Portfolio</a>
+      </li>
+    </ul>
+    <h3>Hire Me</h3>
+    <ul>
+      <li>
+        <a href="https://www.fiverr.com/share/xPwZmX">Landing Page Fiverr Gig</a>
+      </li>
+      <li>
+        <a href="rondinelibrt18@gmail.com">Or email me for a full time job</a>
+      </li>
+    </ul>
   </div>
     
   </details>
