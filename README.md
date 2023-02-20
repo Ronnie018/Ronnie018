@@ -1,12 +1,39 @@
 <div align="center">
   <a href="https://git.io/typing-svg"
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Fire+code&weight=900&duration=1700&pause=200&center=true&vCenter=true&width=435&height=100&lines=Hi!;I'm+Rondineli+brito.;co-owner+of+FearlessTech.+;I+love+Tech;and+intend+to+become+a+webDev.;+"
+      src="https://readme-typing-svg.demolab.com?font=Fire+code&weight=900&duration=1700&pause=200&center=true&vCenter=true&width=435&height=100&lines=Hi!;I'm+Rondineli+brito.;Co-wner+of+FearlessTech.+;I+love+Tech;and+intend+to+become+a+webDev.;+"
       alt="Typing SVG"
   /></a>
 </div>
 
   <br />
+  
+  <h3>Hire Me</h3>
+  
+  | Landing Page Fiverr Gig | Or email me for a full time job |
+| --- | --- |
+| <a href="https://www.fiverr.com/share/xPwZmX">Landing Page Fiverr Gig <br><img src="https://assets-global.website-files.com/606a802fcaa89bc357508cad/62291b5f923ec472a68d77ea_Blog%20-%201%20(2).png" alt="" width="250px"></a> | <a href="rondinelibrt18@gmail.com"> Or email me for a full time job <br><img src="https://images.ctfassets.net/lzny33ho1g45/best-email-app-p-img/65fb438385539afec1566a61ffbf7668/best_email_apps.jpg?w=1520&fm=jpg&q=30&fit=thumb&h=760" alt="" width="250px"></a> |
+![webdev](https://user-images.githubusercontent.com/105990331/220165264-e289dcdb-4db1-4644-bb9d-71d6ab09331c.jpg)
+ ![fiverr](https://user-images.githubusercontent.com/105990331/220166009-12920d51-80d2-4fdf-9bd5-0b77bdb418cd.jpg)
+<table>
+
+  <tr>
+   <h3>Hire Me</h3>
+    <td>
+      <img align="left" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/718/296/datas/original.png" width="150">
+    </td>
+    <td>
+    <h3>💖Become a part of the FearlessTech💖</h3>
+    <a href="https://github.com/FearlessTech/.github/issues/new?assignees=&labels=welcome&template=invitation.yml&title=Please+invite+me+to+FearlessTech" alt="join_us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-JOIN%20US-green?style=for-the-badge&logo=github" width="150"></a>
+    </td>
+    <td>
+      <img align="left" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/718/296/datas/original.png" width="150">
+    </td>
+  </tr>
+</table>
+
+ 
+
 
 <img
   src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white"
@@ -304,18 +331,7 @@
   float="right"
 />
 
-<h3>Hire Me</h3>
-<ul>
-    <a href="https://www.fiverr.com/share/xPwZmX">
-      Landing Page Fiverr Gig <br>
-      <img src="https://assets-global.website-files.com/606a802fcaa89bc357508cad/62291b5f923ec472a68d77ea_Blog%20-%201%20(2).png" alt="" width="250px">
-    </a>
-  <br/>
-    <a href="rondinelibrt18@gmail.com">
-      Or email me for a full time job <br>
-      <img src="https://images.ctfassets.net/lzny33ho1g45/best-email-app-p-img/65fb438385539afec1566a61ffbf7668/best_email_apps.jpg?w=1520&fm=jpg&q=30&fit=thumb&h=760" alt="" width="250px">
-    </a>
-</ul>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ronnie018&label=Profile%20views&color=0e75b6&style=flat" alt="ronnie018" />
