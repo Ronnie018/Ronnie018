@@ -53,9 +53,6 @@
         <h3>Blogs and Landing Pages:</h3>
         <ul>
           <li>
-            <a href="https://fearlesstech.github.io/">FearlessTech</a>
-          </li>
-          <li>
             <a href="https://robertaandrade.github.io/portfolio-design/">Digital Designer Portfolio</a>
           </li>
         </ul>
