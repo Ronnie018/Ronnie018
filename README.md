@@ -101,11 +101,11 @@
         height="40"
         width="40"
     /></a>
-    <a href="https://www.hackerrank.com/rondinelibrt18" target="blank"
+    <a href="https://leetcode.com/ronnie018/" target="blank"
       ><img
         align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-        alt="@rondinelibrt18"
+        src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png"
+        alt="@ronnie018"
         height="40"
         width="40"
     /></a>
