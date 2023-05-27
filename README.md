@@ -55,6 +55,9 @@
           <li>
             <a href="https://robertaandrade.github.io/portfolio-design/">Digital Designer Portfolio</a>
           </li>
+          <li>
+            <a href="https://portfolio-sage-nine-81.vercel.app/">My Updated Portfolio</a>
+          </li>
         </ul>
       </td>
     </tr>
